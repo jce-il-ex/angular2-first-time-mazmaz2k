@@ -12,7 +12,7 @@ What things you need to install the software and how to install them
 
 - nodejs
 - npm
-- git
+- git try
 - angular2 CLI
 
 ### IDE
