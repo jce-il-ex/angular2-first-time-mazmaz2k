@@ -13,7 +13,7 @@ What things you need to install the software and how to install them
 - nodejs
 - npm
 - git try
-- angular2 CLI
+- angular2 CLI try 2
 
 ### IDE
 VS code [https://code.visualstudio.com/]
