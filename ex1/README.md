@@ -1,5 +1,5 @@
 # Angular 2 create and delpoy for first time
-
+[link in firebase](https://ex1-omri-mizrahi-e9d02.firebaseapp.com/)
 First time creating and deploying angular2 app
 
 ## Getting Started
